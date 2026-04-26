@@ -76,9 +76,7 @@
       </nav>
 
       <div class="header-social-links">
-        <a href="https://x.com/ziadhamdy404" class="twitter"><i class="bi bi-twitter-x"></i></a>
-        <a href="https://www.facebook.com/ziadhamdy404" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="https://www.instagram.com/ziadhamdy404/" class="instagram"><i class="bi bi-instagram"></i></a>
+        <!-- Social links removed -->
         <a href="https://www.linkedin.com/in/ziad-hamdy-827685197/" class="linkedin"><i class="bi bi-linkedin"></i></a>
       </div>
 
